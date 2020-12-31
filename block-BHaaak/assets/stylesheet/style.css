@@ -1,0 +1,18 @@
+img{
+    width: 400px; 
+    height: 200px;
+}
+
+.foot #mail{
+    background-color: green;
+    padding: 0px 8px 0px 5px;
+    margin: 5px 5px 0px 0px;
+    text-decoration: none;
+}
+
+.foot #back{
+    background-color: green;
+    padding: 0px 8px 0px 5px;
+    margin: 5px 5px 0px 0px;
+    text-decoration: none;
+}
